@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>LESS</string>
+	<string>LESSImport</string>
 	<key>fileTypes</key>
 	<array>
 		<string>less</string>
