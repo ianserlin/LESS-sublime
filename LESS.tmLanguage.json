@@ -1,7 +1,8 @@
 {
   "fileTypes" : [
     "less",
-    "css"
+    "css",
+    "lessimport"
   ],
   "foldingStartMarker" : "\/\\*\\*(?!\\*)|\\{\\s*($|\/\\*(?!.*?\\*\/.*\\S))",
   "foldingStopMarker" : "(?<!\\*)\\*\\*\/|^\\s*\\}",
