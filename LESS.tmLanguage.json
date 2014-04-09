@@ -666,7 +666,7 @@
       "include" : "#numeric-values"
     }
   ],
-  "comment" : "LESS",
-  "name" : "LESS",
+  "comment" : "LESSImport",
+  "name" : "LESSImport",
   "scopeName" : "source.less"
 }
