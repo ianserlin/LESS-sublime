@@ -8,6 +8,7 @@
 	<array>
 		<string>less</string>
 		<string>css</string>
+		<string>lessimport</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*(?!\*)|\{\s*($|/\*(?!.*?\*/.*\S))</string>
